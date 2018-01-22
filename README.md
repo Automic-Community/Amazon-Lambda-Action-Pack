@@ -21,7 +21,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
-<p><span>With AWS Lambda, you can run code without provisioning or managing servers.<span>&nbsp; </span>With this action pack you can upload and invoke your code and Lambda takes care of everything required to run and scale your code with high availability. <br /></span></p>
+<p><span>With AWS Lambda, you can run code without provisioning or managing servers.&nbsp; With this action pack you can upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services like S3 or call it directly from any web or mobile app.</span></p>
 <p><span>Requirements:<br />- AWS CLI installed and aws command in the path for the unix/linux or windows user running the actions.</span></p>
 
 Copyright and License
