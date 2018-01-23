@@ -23,6 +23,7 @@ Contents of Solution Package:
 Documenation and Instructions
 ---
 
+<p><span><img src="https://448bb31d92917ba3390f-4a8f48d20b0d8c78b979208d38d37653.ssl.cf1.rackcdn.com/1010/screenshots/AWS_Lambda_Logo.png" alt="" width="120" height="80" /></span></p>
 <p><span>With AWS Lambda, you can run code without provisioning or managing servers.</span></p>
 <p><span>With this Action Pack you can upload your code and Lambda takes care of everything required to run and scale your code with high availability. You can set up your code to automatically trigger from other AWS services like S3 or call it directly from any web or mobile app.</span></p>
 <p><span>Requirements:</span></p>
