@@ -11,6 +11,8 @@ Contents of Solution Package:
 						
 								*PCK.CUSTOM_AWS_LAMBDA_1.0.0.zip
 								
+								*AWS_Lambda_Logo.png
+								
 								*workflow.JPG
 								
 								*Promptset.JPG
